@@ -14,7 +14,7 @@ ul{
     
     color: red;
 }
-.funParagraph{ color: green; }
+p.funParagraph{ color: green; }
 figure{
     margin: auto;
     padding: 0;
