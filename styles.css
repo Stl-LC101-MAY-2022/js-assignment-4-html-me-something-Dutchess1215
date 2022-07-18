@@ -25,4 +25,4 @@ main{
     max-width: 1024px;
     text-align: center;
 }
-.funParagraph{ color: green; }
+#testP.funParagraph{ color: green; }
