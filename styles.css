@@ -4,17 +4,23 @@ body {
     max-width: 1024px;
     
 }
+header{
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
 #mainHeading{
+    
     color: red;
 }
-.funParagraph{
-    color: green;
-}
+.funParagraph{ color: green; }
 figure{
-    margin: 0;
+    margin: auto;
     padding: 0;
-    text-align: center;
+    align-items: center;
     max-width: 1024px;
+    display: block;
 }
 main{
     max-width: 1024px;
