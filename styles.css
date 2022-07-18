@@ -1,1 +1,28 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    width: 100%;
+    max-width: 1024px;
+    
+}
+header{
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+#mainHeading{
+    
+    color: red;
+}
+figure{
+    margin: auto;
+    padding: 0;
+    align-items: center;
+    max-width: 1024px;
+    display: block;
+}
+main{
+    max-width: 1024px;
+    text-align: center;
+}
+#testP.funParagraph{ color: green; }
